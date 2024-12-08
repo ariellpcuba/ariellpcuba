@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariel
-- 👀 I’m interested in DevOps tools, Arduino, Raspberry Pi and 3D printing Projects.
+- 👀 I’m interested in DevOps tools, Arduino, Raspberry Pi and 3D printing Projects and Photography.
 - 🌱 I’m currently learning Terraform, Ansible, Kubernetes and Cloud tecnologies.
 
 - 📫 How to reach me alimaprez@gmail.com
